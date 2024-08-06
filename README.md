@@ -21,6 +21,7 @@ The following data structures are included in this repository:
 - **Queue** 
 - **Binary Search Tree (BST)**
 - **Hash Table**
+- 
 Each implementation includes basic operations and methods commonly associated with the data structure.
 
 ## Usage
